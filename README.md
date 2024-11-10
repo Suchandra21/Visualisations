@@ -1,2 +1,2 @@
-# Visualisations
-A visualisation repository using Tableau
+# Visualizations
+A visualization repository using Tableau
